@@ -1,5 +1,9 @@
 # CleanTrack
 
+![Flask App](https://img.shields.io/badge/built%20with-Flask-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 CleanTrack is a lightweight GMP-compliant equipment calibration tracker built using Flask. It allows users to log, track, and manage calibration activities across pharmaceutical and biotech facilities.
 
 ---
@@ -26,9 +30,10 @@ CleanTrack is a lightweight GMP-compliant equipment calibration tracker built us
 
 ## 📸 Screenshot
 
-![screenshot](https://via.placeholder.com/800x400.png?text=CleanTrack+Calibration+Dashboard)
+![CleanTrack Screenshot](https://github.com/Bckburnr/cleantrack/blob/main/Calibration%20tracker.png?raw=true)
 
-_(Update this with your actual screenshot or leave it out)_
+
+
 
 ---
 
@@ -44,6 +49,15 @@ Originally developed as a mock internal tool for use in FDA-regulated environmen
 ---
 
 ## ⚙️ Setup Instructions
+
+---
+
+## ✍️ Author
+
+**Charles Kwena**  
+Validation Engineer | Quality Systems | Python Dev in Progress  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-actual-profile-url)  
+📍 Based in NJ | Open to Remote & Hybrid Roles  
 
 ```bash
 git clone https://github.com/Bckburnr/cleantrack.git
