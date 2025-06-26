@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Calibration Tracker</h1>
+<form method="POST" action="/add">
+  Equipment Name: <input name="name" required>
+  Due Date: <input type="date" name="due_date" required>
+  <button type="submit">Add</button>
+</form>
+<ul>
+  {% for eq in equipments %}
+    <li>{{ eq.name }} - Due: {{ eq.due_date }}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
