@@ -44,6 +44,13 @@ Originally developed as a mock internal tool for use in FDA-regulated environmen
 
 ---
 
+## ✍️ Author
+
+**Charles Kwena**  
+Systems Validation | Quality | Python Dev-in-Progress  
+🔗 [LinkedIn](https://www.linkedin.com/in/charles-k-a198b9137/)  
+📍 Based in NJ | Open to Remote & Hybrid Roles  
+
 ## ⚙️ Setup Instructions
 
 ```bash
